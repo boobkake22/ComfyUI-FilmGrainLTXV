@@ -15,5 +15,5 @@ Repository = "https://github.com/boobkake22/ComfyUI-FilmGrainLTXV"
 
 [tool.comfy]
 PublisherId = "boobkake22"
-DisplayName = "LTXV Film Grain"
+DisplayName = "Film Grain LTXV"
 Icon = ""
