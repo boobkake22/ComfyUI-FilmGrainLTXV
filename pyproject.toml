@@ -1,0 +1,19 @@
+[project]
+name = "film-grain-ltxv"
+description = "Adds film grain to the image."
+authors = [
+    { name = "Andrew Kvochko", email = "akvochko@lightricks.com" }
+]
+version = "0.1.0"
+license = {file = "LICENSE"} 
+readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/boobkake22/ComfyUI-FilmGrainLTXV"
+#  Used by Comfy Registry https://registry.comfy.org
+"Bug Tracker" = "https://github.com/boobkake22/ComfyUI-FilmGrainLTXV/issues"
+
+[tool.comfy]
+PublisherId = "boobkake22"
+DisplayName = "LTXV Film Grain"
+Icon = ""
