@@ -60,7 +60,7 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "CG_EditRouter": "Edit Router",
+    "FilmGrainLTXV": "Film Grain LTXV",
 }
 
 __all__ = ["NODE_CLASS_MAPPINGS", "NODE_DISPLAY_NAME_MAPPINGS"]
